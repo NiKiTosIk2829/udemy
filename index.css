@@ -221,7 +221,7 @@ h2.title {
 .finish {
     min-height: 447px;
     padding: 86px 0 79px 0;
-    background: url('/jpg/second_bg.jpg') center center/cover no-repeat;
+    background: url('./jpg/second_bg.jpg') center center/cover no-repeat;
 }
 
 .finish .finish_wrapper {
